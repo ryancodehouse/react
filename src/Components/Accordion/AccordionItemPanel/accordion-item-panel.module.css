@@ -1,0 +1,12 @@
+.panel {
+    height: 0;
+    overflow: hidden;
+    transition: height .5s ease-out;
+    border: 1px solid grey;
+    border-top: 0;
+    width: calc(80% - 2px);
+    border-radius: 0 0 7px 7px;
+    margin: auto;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

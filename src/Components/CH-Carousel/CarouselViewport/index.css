@@ -1,0 +1,7 @@
+.carousel__viewport {
+    display: flex;
+}
+
+.carousel__viewport--animated {
+    transition: transform 2s ease-in-out;
+}

@@ -1,0 +1,14 @@
+.logout {
+    position: absolute;
+    right: 10px;
+    color: #61dafb;
+    
+}
+
+.button {
+    background-color: #61dafb;
+    padding: 8px 12px;
+    border-radius: 30px;
+    border: 0;
+    color: #282c34;
+}

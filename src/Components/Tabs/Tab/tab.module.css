@@ -1,0 +1,18 @@
+.button {
+    border-radius: 20px 20px 0 0;
+    padding: 20px;
+    width: calc(33.33% - 4px);
+    background-color: #282c34;
+    color: #61dafb;
+    border-bottom: 0;
+    margin: 0 0.5px;
+    font-family: inherit;
+    font-weight: inherit;
+    /* display: flex; */
+}
+
+.active {
+    /* margin: 0; */
+    color: #282c34;
+    background-color: white;
+}
