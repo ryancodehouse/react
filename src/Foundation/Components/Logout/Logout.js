@@ -5,7 +5,6 @@ import styles from "./logout.module.css";
 
 function Logout() {
     const user = useSelector(selectUser);
-    console.log(user);
     const dispatch = useDispatch();
 
     const handleClick = (e) => {
